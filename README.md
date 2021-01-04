@@ -1,7 +1,7 @@
 Markov Text Generator
 =====================
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Markov Text Generator** is a simple Markov Chain based python program that builds a model from text 
